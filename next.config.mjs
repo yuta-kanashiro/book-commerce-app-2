@@ -7,7 +7,10 @@ const nextConfig = {
         //         hostname: "lh3.googleusercontent.com",
         //     }
         // ],
-        domains: ['lh3.googleusercontent.com'],
+        domains: [
+            'lh3.googleusercontent.com',
+            'images.microcms-assets.io',
+        ],
     }
 };
 
